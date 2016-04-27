@@ -1,0 +1,15 @@
+c:\users\administrator\documents\visual studio 2010\Projects\miniproject\miniproject\bin\Debug\miniproject.exe
+c:\users\administrator\documents\visual studio 2010\Projects\miniproject\miniproject\bin\Debug\miniproject.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\miniproject\miniproject\bin\Debug\miniproject.xml
+c:\users\administrator\documents\visual studio 2010\Projects\miniproject\miniproject\obj\x86\Debug\miniproject.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\miniproject\miniproject\obj\x86\Debug\miniproject.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\miniproject\miniproject\obj\x86\Debug\miniproject.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\miniproject\miniproject\obj\x86\Debug\miniproject.exe
+c:\users\administrator\documents\visual studio 2010\Projects\miniproject\miniproject\obj\x86\Debug\miniproject.xml
+c:\users\administrator\documents\visual studio 2010\Projects\miniproject\miniproject\obj\x86\Debug\miniproject.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\miniproject\miniproject\obj\x86\Debug\miniproject.Form2.resources
+c:\users\administrator\documents\visual studio 2010\Projects\miniproject\miniproject\obj\x86\Debug\miniproject.Form3.resources
+c:\users\administrator\documents\visual studio 2010\Projects\miniproject\miniproject\bin\Debug\miniproject.exe.manifest
+c:\users\administrator\documents\visual studio 2010\Projects\miniproject\miniproject\bin\Debug\miniproject.application
+c:\users\administrator\documents\visual studio 2010\Projects\miniproject\miniproject\obj\x86\Debug\miniproject.exe.manifest
+c:\users\administrator\documents\visual studio 2010\Projects\miniproject\miniproject\obj\x86\Debug\miniproject.application
